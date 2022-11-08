@@ -5,7 +5,7 @@ Source code of ``Encoding Time Series as Images: A Robust and Transferable Frame
 
 If this work is helpful with your work, welcome to cite the below papers.
 ```
-@article{Zhang2022DCVGG,
+@article{Zhang2022UTL,
   title={Towards Multi-Scenario Power System Stability Analysis: An Unsupervised Transfer Learning Method Combining DGAT and Data Augmentation},
   author={R. Zhang, W. Yao, Z. Shi, et al.},
   journal={IEEE Transactions on Power Systems},
