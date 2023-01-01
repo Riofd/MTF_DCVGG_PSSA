@@ -15,7 +15,7 @@ If this work is helpful with your work, welcome to cite the below papers.
 @article{Zhang2022DCVGG,
   title={Encoding Time Series as Images: A Robust and Transferable Framework for Power System DIM Identification Combining Rules and VGGNet},
   author={R. Zhang, W. Yao, Z. Shi, et al.},
-  journal={IEEE Transactions on Power Systems, Under Review},
+  journal={IEEE Transactions on Power Systems},
   year={2022}
 }
 
@@ -29,6 +29,9 @@ If this work is helpful with your work, welcome to cite the below papers.
 # 
 
 # Updating Dialogs
+
+## 2022/12/31 Updata
+* __This paper is successfully accepted by TPWRS.__
 
 ## 2022/12/24 Updata
 * __Update README details.__
