@@ -16,7 +16,7 @@ If this work is helpful with your work, welcome to cite the below papers.
   title={Encoding Time Series as Images: A Robust and Transferable Framework for Power System DIM Identification Combining Rules and VGGNet},
   author={R. Zhang, W. Yao, Z. Shi, et al.},
   journal={IEEE Transactions on Power Systems},
-  year={2022}
+  year={2023}
 }
 
 @article{Zhang2021DIM,
